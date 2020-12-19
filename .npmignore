@@ -1,0 +1,10 @@
+node_modules
+.nezha/
+dist
+.vscode
+.DS_Store
+*.log
+
+src/components
+src/modules
+storybook-static
