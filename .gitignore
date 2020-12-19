@@ -1,9 +1,6 @@
 node_modules
-# .nezha/
 dist
 .vscode
 .DS_Store
 *.log
-storybook-static
 .idea
-.nezha
